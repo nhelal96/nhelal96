@@ -1,8 +1,20 @@
 # Nour Helal
 
+<p align="left">
+  <a href="https://linkedin.com/in/nourhelal" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=nhelal96&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
+
 **ML Team Lead & Principal AI Engineer**
 
 Strategic AI Leader and Systems Architect specializing in production-grade Agentic AI platforms, Document Intelligence, distributed machine learning pipelines, and autonomous robotics systems. Experienced in steering high-performance cross-functional engineering teams, designing scalable architectures from R&D to multi-product enterprise deployment, and driving business ROI.
+
+---
+
+## 🏆 Profile Achievements
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhelal96&theme=radical&column=5" alt="Github Profile Trophies" /></a>
+</p>
 
 ---
 
@@ -58,6 +70,30 @@ Here are some of my open-source projects, detailing robotics control stacks, sim
 └─────────────────┴─────────────────┴─────────────────┴───────────────────┘
 ```
 
+### Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics & Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nhelal96&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhelal96&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhelal96&theme=dark" alt="GitHub Streak" height="160" />
+</p>
+
 ---
 
 ## 📫 Contact & Links
@@ -65,5 +101,7 @@ Here are some of my open-source projects, detailing robotics control stacks, sim
 *   **LinkedIn**: [linkedin.com/in/nourhelal](https://linkedin.com/in/nourhelal)
 *   **Email**: nour@nourhelal.com
 *   **Website**: [nourhelal.com](https://nourhelal.com)
+*   **CodeProject Articles**: [codeproject.com/Members/BigNrz](https://www.codeproject.com/Members/BigNrz)
+*   **Codeforces**: [codeforces.com/profile/lofy](https://codeforces.com/profile/lofy)
 
 <!-- Nudge cache update -->
